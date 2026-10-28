@@ -1,2 +1,2 @@
-# Week3_day6_Ex
-Ex
+# Week3_day6_Exercise
+Exe
